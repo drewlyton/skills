@@ -49,7 +49,7 @@ git -C ~/projects/drewlyton-skills pull
 ## Add or edit a skill
 
 Edit in place in the clone and commit. For a new skill, follow pi's
-[skill authoring](https://pi.dev/docs/skills) rules (a `name` and
+[skill authoring](https://github.com/earendil-works/pi-mono/blob/main/packages/coding-agent/docs/skills.md) rules (a `name` and
 `description` in frontmatter; use `disable-model-invocation: true` for
 user-invoked skills). Commit and push; `git pull` on the other machine.
 
