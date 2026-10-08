@@ -1,0 +1,11 @@
+{
+  "name": "@drewlyton/skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Drew Lyton's personal pi skills, shared across machines.",
+  "keywords": ["pi-package", "skills"],
+  "license": "UNLICENSED",
+  "pi": {
+    "skills": ["./skills"]
+  }
+}
